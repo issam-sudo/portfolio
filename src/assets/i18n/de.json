@@ -1,0 +1,196 @@
+{
+	"banner.content": "Hallo! Mein Name ist",
+	"Header.Item1": "Über mich",
+	"Header.Item2": "Erfahrung",
+	"Header.Item3": "Arbeit",
+ 
+	"Header.Item5": "Kontakt",
+	"Header.cvBtn": "Lebenslauf",
+	"Header.cvName": "issamBenkaroum_CV.pdf",
+	"banner.subtitle": "Ich baue digitale Plattformen.",
+	"Banner.Pretitle": "Hallo! Mein Name ist",
+	"Banner.Description": "Ich bin ein Softwareingenieur mit <span class='underline'>über 3 Jahren Erfahrung</span>, spezialisiert auf die Entwicklung von Systemen, Schnittstellen, SAAS und technologischen Lösungen. Mein Stolz liegt in meiner Fähigkeit, Projektanforderungen in visuell ansprechende und effiziente Lösungen umzuwandeln. Derzeit bin ich bei <span class='underline'>ANCFCC</span> angestellt, wo ich mich der Entwicklung von zugänglichen und menschenzentrierten Produkten widme.",
+	"Banner.ActionBtn": "Kontakt aufnehmen",
+	"AboutMe.Title": "Über mich",
+	"AboutMe.Paragraphs": [
+		"Hallo, ich bin Issam Ben Karoum, ein Absolvent als Software- und intelligenter Systemingenieur. Derzeit erkunde ich die Welt des Designs und der Entwicklung von Webanwendungen. Im Laufe meiner Karriere war ich an verschiedenen Großprojekten beteiligt, die sich auf responsives Design, Leistungsoptimierung und interdisziplinäre Zusammenarbeit konzentrieren. Ich liebe es, die 'Wunschliste' eines Projekts in etwas zu verwandeln, das nicht nur großartig aussieht, sondern auch reibungslos funktioniert.",
+		"Mein typischer Tag besteht darin, Designs in klickbare Elemente umzuwandeln und Probleme mit unserem QA-Team zu lösen. Ich lege Wert auf Teamarbeit, übernehme Verantwortung für das, was ich tue, und suche immer nach Möglichkeiten, anderen beim Wachsen in ihren Rollen zu helfen.",
+		"Einige der Technologien, auf die ich geschult wurde und mit denen ich gearbeitet habe, umfassen (aber beschränken sich nicht auf):"
+	],
+	"AboutMe.conclude": [
+		"Das ist ein wenig über mich. Ich freue mich darauf, meine Fähigkeiten und Leidenschaft in noch aufregendere Projekte einzubringen!"
+	],
+	"Experience.Title": "Wo ich gearbeitet habe",
+	"Experience.Jobs": [
+		{
+			"Tab": "ANCFCC",
+			"Title": "Computeringenieur",
+			"Date": "Dez. 2021 - Heute",
+			"Description": [
+				"Entwicklung der Plattform E-RECRUITMENT-ANCFCC zur Vereinfachung des Einstellungsprozesses.",
+				"Entwicklung des Projekts ANCFCC-CDG Reconciliation zur Verbesserung der betrieblichen Abläufe.",
+				"Entwicklung des Marktplatzprojekts für Kartografie.",
+				"Entwicklung und Implementierung von elektronischen Signaturlösungen."
+			]
+		},
+
+		{
+			"Tab": "FMJ Technology",
+			"Title": "Full Stack Entwickler: MEAN STACK",
+			"Date": "Apr. 2021 - Aug. 2021",
+			"Description": [
+				"Entwurf und Entwicklung eines künstlerischen Marktplatzes I MIND YOU für den Verkauf von Kunstwerken mit Cashback für Verkäufer und Käufer."
+			]
+		},
+		{
+			"Tab": "STG",
+			"Title": "Full Stack Entwickler: MEAN STACK",
+			"Date": "Sep. 2020 - März 2021",
+			"Description": [
+				"Entwurf und Entwicklung von SaaS-Lösungen für das Flottenmanagement, Analyse des Fahrverhaltens, Erkennung und Rekonstruktion von Unfällen sowie Echtzeitverfolgung des Kraftstoffverbrauchs und Diebstahls."
+ 
+			]
+		},
+		{
+			"Tab": "FMJ Technology",
+			"Title": "Full Stack Entwickler: MEAN STACK",
+			"Date": "Feb. 2020 - Jul. 2020",
+			"Description": [
+				"Entwicklung eines Projekts zur Verbesserung und Anpassung der Erstellung von Bildmosaiken für ein künstlerisches soziales Netzwerk unter der Leitung des Künstlers Yann Faisant."
+			]
+		}
+	],
+	"FeatureProjects.Title": "Einige meiner Erfolge",
+	"FeatureProjects.Label": "Hervorgehobenes Projekt",
+	"FeatureProjects.Projects": [
+		{
+			"Title": "Fmg Pay",
+			"Description": "FMJ PAY ist eine innovative Plattform, die die Verwaltung von Online-Zahlungen sicher vereinfacht. Mit FMJ PAY können Benutzer ihr Geldbeutelkonto problemlos laden und eine bequeme Lösung für reibungslose Transaktionen erhalten. Genießen Sie eine nahtlose Benutzererfahrung mit intuitiven Funktionen, vielfältigen Zahlungsoptionen und einer benutzerfreundlichen Oberfläche. Unsere Plattform gewährleistet die Vertraulichkeit Ihrer finanziellen Daten und sorgt für schnelle und zuverlässige Transaktionen. FMJ PAY bietet transparentes Management Ihres Geldbeutelkontos, damit Sie Ihre Ausgaben leicht verfolgen und mit nur wenigen Klicks aufladen können.",
+			"imgs": [
+				"assets/videos/fmjPay.webm"
+			],
+			"demoLink": "",
+			"Technologies": [
+				"HTML/HTML5",
+				"CSS/CSS3", 
+				"Angular", 
+				"Angular Material", 
+				"RxJS",
+				"NodeJS",
+				"ExpressJs",
+				"MongoDB",
+				"GitLab",
+				"Git",
+				"Jira",
+				"UIKIT" ,
+				"Stripe"
+			]
+		},
+		{
+			"Title": "Fmg I MIND YOU Marketplace",
+			"Description": "Das Projekt Fmg I MIND YOU Marketplace ist eine innovative Plattform für zeitgenössische Kunst. Diese Plattform bietet einen digitalen Raum, in dem aufstrebende Künstler ihre einzigartigen Kreationen präsentieren und verkaufen können. Kunstliebhaber können eine Vielzahl außergewöhnlicher Werke entdecken, von Gemälden über Skulpturen bis hin zur Fotografie. Fmg I MIND YOU Marketplace fördert die direkte Verbindung zwischen Künstlern und Sammlern und unterstützt einen authentischen und transparenten Austausch. Mit benutzerfreundlichen Funktionen können Benutzer problemlos durch virtuelle Galerien navigieren und exklusive Kunstwerke erwerben. Die Plattform verpflichtet sich, die künstlerische Vielfalt zu unterstützen und gleichzeitig eine immersive und zugängliche Erfahrung für Kunstliebhaber auf der ganzen Welt zu bieten.",
+			"imgs": [
+				"assets/videos/fmjMarketplace.webm"
+			],
+			"demoLink": "",
+			"Technologies": [
+				"HTML/HTML5",
+				"CSS/CSS3", 
+				"Angular", 
+				"Angular Material", 
+				"UIKIT", 
+				"RxJS",
+				"NodeJS",
+				"ExpressJs",
+				"MongoDB",
+				"GitLab",
+				"Git",
+				"Jira",
+				"Bootstrap",
+				"Stripe"
+			]
+		},
+		{
+			"Title": "EVELO",
+			"Description": "Das Projekt beinhaltet die Entwicklung des Front-Ends der EVELO-Homepage mit modernem und benutzerfreundlichem Design. Das Ziel ist es, die Benutzererfahrung zu optimieren, indem interaktive und ansprechende Elemente integriert werden, die eine intuitive Navigation gewährleisten. Das Design konzentriert sich auf Benutzerfreundlichkeit, Leistung und Kompatibilität mit verschiedenen Geräten. Moderne Technologien werden eingesetzt, um eine dynamische und responsive Web-Benutzeroberfläche zu gewährleisten, die das innovative Bild von EVELO widerspiegelt.",
+			"imgs": [
+				"assets/videos/evelo.webm"
+			],
+			"demoLink": "",
+			"Technologies": [
+				"HTML/HTML5",
+				"CSS/CSS3", 
+				"Angular", 
+				"Angular Material", 
+				"RxJS", 
+				"GitLab",
+				"Git",
+				"Jira",
+				"Bootstrap" 
+			]
+		},
+		{
+			"Title": "ANCFCC Portal",
+			"Description": "Das Front-End-Entwicklungsprojekt für das ANCFCC-Portal (Nationale Agentur für Landkonservierung, Kataster und Kartografie) zielt darauf ab, die Benutzeroberfläche und die allgemeine Benutzererfahrung des Portals zu verbessern. Das Hauptziel besteht darin, Navigation, Benutzerfreundlichkeit und Leistung der Website zu optimieren, um den Zugang zu Informationen und Dienstleistungen, die von ANCFCC angeboten werden, zu erleichtern.",
+			"imgs": [
+				"assets/videos/portail.webm"
+
+			],
+			"demoLink": "",
+			"Technologies": [
+				"HTML/HTML5",
+				"CSS/CSS3", 
+				"Angular", 
+				"Angular Material", 
+				"RxJS",
+				"Azure Devops", 
+				"Bootstrap" 
+			]
+		}
+	],
+	"OtherProjects.Title": "Andere bemerkenswerte Projekte",
+	"OtherProjects.Projects": [
+		{
+			"Title": "Online-Reisebüro Tripado",
+			"Description": "Tripado, ein Online-Reisebüro, bietet eine umfassende Palette von Dienstleistungen, darunter Touren, Ausflüge und Transfers in Marokko, für ein vollständiges und personalisiertes Reiseerlebnis.",
+			"ghLink": "",
+			"demoLink": "",
+			"Technologies": ["MEAN STACK"]
+		},
+		{
+			"Title": "Shahrazad E-COMMERCE Plattform",
+			"Description": "Shahrazad E-COMMERCE Plattform: Eine Online-Plattform, die ein vielfältiges und benutzerfreundliches Einkaufserlebnis bietet, inspiriert von den Geschichten von Shahrazad und eine vielfältige Produktpalette mit einem einzigartigen orientalischen Touch anbietet.",
+			"ghLink": "",
+			"demoLink": "",
+			"Technologies": ["MEAN STACK"]
+		}
+	],
+	"Contact.Pretitle": "Das Nächste",
+	"Contact.Title": "Nehmen Sie Kontakt auf!",
+	"Contact.Content": "Ich würde mich freuen, von Ihnen zu hören, wenn Sie über neue Möglichkeiten sprechen möchten. Schreiben Sie mir, und ich werde so schnell wie möglich auf Ihre Nachricht antworten. Ein einfaches Einseiten-Design mit einem Profilbrief und grundlegenden Informationen über eine Person.",
+	"Contact.Btn": "Sag Hallo",
+	"Testimonial.Title": "Eindrücke meiner Kunden über mich",
+	"Testimonial.Items": [
+		{
+			"Comment": "Ich wollte mich persönlich für die Jahre des Dienstes und Engagements bei CoDev bedanken. Ich verstehe, dass Sie gehen, um eine Bildungschance zu nutzen, und obwohl es mich traurig macht, Sie gehen zu sehen, respektiere ich Ihre Bemühungen, Ihre Fähigkeiten zu verbessern. Ich hoffe aufrichtig, dass Sie in Betracht ziehen werden, zu CoDev zurückzukehren, wenn es Ihre Bildungsmöglichkeiten zulassen, und ich hoffe, dass Sie in Kontakt mit dem lokalen Team bleiben, sowie mit mir. Wenn ich etwas tun kann, um Ihnen zu helfen, lassen Sie es mich wissen.",
+			"Name": "Tony Morrison",
+			"Position": "CEO",
+			"Company": "CoDev",
+			"img": "assets/images/testimonial/tony-morrison.jpeg"
+		},
+		{
+			"Comment": "Florence ist eine <span class='underline'>unabhängige Initiatorin</span>, auf die ich mich verlassen habe, um <span class='underline'>die Bemühungen der Front-End-Entwicklung für ihr Team zu leiten</span>. In den letzten Jahren hat sie sich unseren komplexen Problemen gestellt und Lösungen gefunden, <span class='underline'>immer die notwendige Zeit aufbringend, um die richtigen Lösungen zu finden</span>. Sie hat insbesondere <span class='underline'>innovative Tools erstellt</span>, um unseren Benutzern beim Übersetzen von Inhalten zwischen Sprachen zu helfen, was Herausforderungen darstellt, die ein Verständnis der besten Praktiken bei der Internationalisierung und Lokalisierung von Webanwendungen erfordern. Sie hat <span class='underline'>nie gezögert, neue Technologien und Frameworks zu lernen</span>, und ich bin überzeugt, dass sie dazu beitragen wird, alle Entwicklungsanstrengungen voranzutreiben. <span class='underline'>Ich empfehle sie uneingeschränkt</span>!",
+			"Name": "Robert Bailey",
+			"Position": "Leiter der Softwareentwicklung",
+			"Company": "Lingotek",
+			"img": "assets/images/testimonial/robert-bailey.jpeg"
+		},
+		{
+			"Comment": "5/5 Sterne. Sie zögert nicht, Meetings zu organisieren und wichtige Fragen zu stellen, um das Team voranzubringen. Sie <span class='underline'>verschwendet keine Zeit</span> damit, die Aufmerksamkeit ihrer Teamkollegen auf sich zu ziehen, um sicherzustellen, dass alle an Bord sind. Oft stellen wir fest, dass <span class='underline'>das Jira-Board ihres Teams fast leer ist</span>. Zeigt <span class='underline'>exzellentes Leadership</span> für Forza. Verfügbar für Pair Programming und Code Reviews. Hat ein ausgezeichnetes Verständnis der Erwartungen, Ziele und Ergebnisse des Teams. Bespricht sich mit dem Projektmanager über die Bedürfnisse des Teams, wie zusätzliche Arbeit, und über Probleme wie Reibungen und/oder Probleme mit der Moral des Teams.",
+			"Name": "Tori Blount",
+			"Position": "Projektleiter",
+			"Company": "CoreBridge",
+			"img": "assets/images/testimonial/tori-blount.png"
+		}
+	]
+}

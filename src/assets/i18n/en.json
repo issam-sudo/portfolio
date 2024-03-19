@@ -1,0 +1,196 @@
+{
+	"banner.content": "Hi! My name is",
+	"Header.Item1": "About Me",
+	"Header.Item2": "Experience",
+	"Header.Item3": "Work",
+ 
+	"Header.Item5": "Contact",
+	"Header.cvBtn": "Resume",
+	"Header.cvName": "issamBenkaroum_CV.pdf",
+	"banner.subtitle": "I build digital platforms.",
+	"Banner.Pretitle": "Hi! My name is",
+	"Banner.Description": "I am a software engineer with <span class='underline'>over 3 years of experience</span>, focused on the development of systems, interfaces, SAAS, and technological solutions. My pride lies in my ability to transform project requirements into visually appealing and efficient solutions. Currently, I am employed at <span class='underline'>ANCFCC</span>, where I dedicate myself to creating accessible and human-centered products.",
+	"Banner.ActionBtn": "Get in touch",
+	"AboutMe.Title": "About Me",
+	"AboutMe.Paragraphs": [
+		"Hi, I'm Issam Ben Karoum, a graduate software and intelligent systems engineer. I am currently exploring the world of web application design and development. Throughout my career, I have been involved in various large-scale projects, focusing on responsive design, performance optimization, and cross-functional collaboration. I love turning a project's 'wish list' into something that not only looks great but also works seamlessly.",
+		"My typical day involves turning designs into clickable elements and solving problems with our QA team. I am focused on teamwork, taking responsibility for what I do, and always looking for ways to help others grow in their roles.",
+		"Some of the technologies I have been trained on and worked with include (but are not limited to):"
+	],
+	"AboutMe.conclude": [
+		"That's a bit about me. I look forward to putting my skills and passion to work on even more exciting projects!"
+	],
+	"Experience.Title": "Where I've Worked",
+	"Experience.Jobs": [
+		{
+			"Tab": "ANCFCC",
+			"Title": "Computer Development Engineer",
+			"Date": "Dec 2021 - Present",
+			"Description": [
+				"Development of the E-RECRUITMENT-ANCFCC platform, streamlining the recruitment process.",
+				"Development of the ANCFCC-CDG reconciliation project, improving operational processes.",
+				"Development of the mapping marketplace project.",
+				"Development and implementation of electronic signature solutions."
+			]
+		},
+
+		{
+			"Tab": "FMJ Technology",
+			"Title": "Full Stack Developer: MEAN STACK",
+			"Date": "Apr 2021 - Aug 2021",
+			"Description": [
+				"Design and development of an artistic marketplace I MIND YOU dedicated to the sale of artworks, offering tools and services facilitating the connection between sellers and buyers with Cash Back."
+			]
+		},
+		{
+			"Tab": "STG",
+			"Title": "Full Stack Developer: MEAN STACK",
+			"Date": "Sep 2020 - Mar 2021",
+			"Description": [
+				"Design and development of SaaS solutions for fleet management, driving behavior analysis, accident detection and reconstruction, as well as real-time tracking of fuel consumption and theft incidents."
+ 
+			]
+		},
+		{
+			"Tab": "FMJ Technology",
+			"Title": "Full Stack Developer: MEAN STACK",
+			"Date": "Feb 2020 - Jul 2020",
+			"Description": [
+				"Development of a project aimed at improving and adjusting the generation of image mosaics for an artistic social network under the guidance of artist Yann Faisant."
+			]
+		}
+	],
+	"FeatureProjects.Title": "Some of My Achievements",
+	"FeatureProjects.Label": "Featured Project",
+	"FeatureProjects.Projects": [
+		{
+			"Title": "Fmg Pay",
+			"Description": "FMJ PAY is an innovative platform that simplifies the management of online payments securely. With FMJ PAY, users can easily load their wallet account, providing a convenient solution for hassle-free transactions. Enjoy a seamless user experience with intuitive features, diverse payment options, and a user-friendly interface. Our platform ensures the confidentiality of your financial data and ensures fast and reliable transactions. FMJ PAY offers transparent management of your wallet account, allowing you to easily track your expenses and top up with just a few clicks.",
+			"imgs": [
+				"assets/videos/fmjPay.webm"
+			],
+			"demoLink": "",
+			"Technologies": [
+				"HTML/HTML5",
+				"CSS/CSS3", 
+				"Angular", 
+				"Angular Material", 
+				"RxJS",
+				"NodeJS",
+				"ExpressJs",
+				"MongoDB",
+				"GitLab",
+				"Git",
+				"Jira",
+				"UIKIT" ,
+				"Stripe"
+			]
+		},
+		{
+			"Title": "Fmg I MIND YOU Marketplace",
+			"Description": "The Fmg I MIND YOU Marketplace project is an innovative platform dedicated to contemporary art. This platform provides a digital space where emerging artists can showcase and sell their unique creations. Art enthusiasts can discover a variety of exceptional works, ranging from painting to sculpture to photography. Fmg I MIND YOU Marketplace promotes direct connection between artists and collectors, encouraging authentic and transparent exchange. With user-friendly features, users can easily navigate, explore virtual galleries, and acquire exclusive art pieces. The platform is committed to supporting artistic diversity while offering an immersive and accessible experience to art enthusiasts worldwide.",
+			"imgs": [
+				"assets/videos/fmjMarketplace.webm"
+			],
+			"demoLink": "",
+			"Technologies": [
+				"HTML/HTML5",
+				"CSS/CSS3", 
+				"Angular", 
+				"Angular Material", 
+				"UIKIT", 
+				"RxJS",
+				"NodeJS",
+				"ExpressJs",
+				"MongoDB",
+				"GitLab",
+				"Git",
+				"Jira",
+				"Bootstrap",
+				"Stripe"
+			]
+		},
+		{
+			"Title": "EVELO",
+			"Description": "The project involves developing the Front-End of the EVELO homepage, with a modern and user-friendly design. The goal is to optimize the user experience by integrating interactive and attractive elements while ensuring intuitive navigation. The design will focus on ease of use, performance, and compatibility with different devices. Modern technologies will be employed to ensure a dynamic and responsive web interface, reflecting the innovative image of EVELO.",
+			"imgs": [
+				"assets/videos/evelo.webm"
+			],
+			"demoLink": "",
+			"Technologies": [
+				"HTML/HTML5",
+				"CSS/CSS3", 
+				"Angular", 
+				"Angular Material", 
+				"RxJS", 
+				"GitLab",
+				"Git",
+				"Jira",
+				"Bootstrap" 
+			]
+		},
+		{
+			"Title": "ANCFCC Portal",
+			"Description": "The Front-End Development project for the ANCFCC Portal (National Agency for Land Conservation, Cadastre, and Cartography) aims to improve the user interface and overall user experience of the portal. The main objective is to optimize navigation, user-friendliness, and site performance to facilitate access to information and services offered by ANCFCC.",
+			"imgs": [
+				"assets/videos/portail.webm"
+
+			],
+			"demoLink": "",
+			"Technologies": [
+				"HTML/HTML5",
+				"CSS/CSS3", 
+				"Angular", 
+				"Angular Material", 
+				"RxJS",
+				"Azure Devops", 
+				"Bootstrap" 
+			]
+		}
+	],
+	"OtherProjects.Title": "Other Notable Projects",
+	"OtherProjects.Projects": [
+		{
+			"Title": "Online Travel Agency Tripado",
+			"Description": "Tripado, an online travel agency, offers a complete range of services including tours, excursions, and transfers in Morocco, providing a complete and personalized travel experience.",
+			"ghLink": "",
+			"demoLink": "",
+			"Technologies": ["MEAN STACK"]
+		},
+		{
+			"Title": "Shahrazad E-COMMERCE Platform",
+			"Description": "Shahrazad E-COMMERCE Platform: An online platform offering a diverse and user-friendly shopping experience, inspired by the tales of Shahrazad, offering a varied range of products with a unique oriental touch.",
+			"ghLink": "",
+			"demoLink": "",
+			"Technologies": ["MEAN STACK"]
+		}
+	],
+	"Contact.Pretitle": "The Next",
+	"Contact.Title": "Get in Touch!",
+	"Contact.Content": "I would be delighted to receive your contact if you would like to discuss new opportunities. Write to me, and I will respond as soon as I see your message. A simple one-page design featuring a profile letter with basic information about a person.",
+	"Contact.Btn": "Say Hello",
+	"Testimonial.Title": "Impressions from My Clients About Me",
+	"Testimonial.Items": [
+		{
+			"Comment": "I just wanted to say thank you personally for the years of service and dedication at CoDev. I understand you're leaving to pursue an educational opportunity, and while I'm sad to see you go, I respect your efforts to enhance your skills. I sincerely hope you'll consider returning to CoDev when your educational opportunities allow, and I hope you'll stay in touch with the local team, as well as with me. If there's anything I can do to help you, let me know.",
+			"Name": "Tony Morrison",
+			"Position": "CEO",
+			"Company": "CoDev",
+			"img": "assets/images/testimonial/tony-morrison.jpeg"
+		},
+		{
+			"Comment": "Florence is an <span class='underline'>independent initiator</span> I've relied on to <span class='underline'>lead front-end development efforts for her team</span>. Over the past few years, she has tackled our complex issues and found solutions, <span class='underline'>always dedicating the necessary time to find the right solutions</span>. She has notably <span class='underline'>created innovative tools</span> to help our users translate content between languages, posing challenges that require an understanding of the best practices in web application internationalization and localization. She has <span class='underline'>never hesitated to learn new technologies and frameworks</span>, and I am confident that she will contribute to advancing any development effort. <span class='underline'>I wholeheartedly recommend her</span>!",
+			"Name": "Robert Bailey",
+			"Position": "Director of Software Engineering",
+			"Company": "Lingotek",
+			"img": "assets/images/testimonial/robert-bailey.jpeg"
+		},
+		{
+			"Comment": "5/5 stars. She is not hesitant to organize meetings and ask essential questions to move the team forward. She <span class='underline'>doesn't waste time</span> in getting her teammates' attention to ensure everyone is on board. More often than not, we find that <span class='underline'>her team's Jira board is almost empty of tickets</span>. Shows <span class='underline'>excellent leadership</span> for Forza. Available for pair programming and code reviews. Has an excellent understanding of the team's expectations, goals, and outcomes. Updates the project manager on the team's needs, such as additional work, and on issues, such as team frictions and/or morale problems.",
+			"Name": "Tori Blount",
+			"Position": "Project Manager",
+			"Company": "CoreBridge",
+			"img": "assets/images/testimonial/tori-blount.png"
+		}
+	]
+}
