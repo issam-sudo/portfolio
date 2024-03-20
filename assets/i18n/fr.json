@@ -1,0 +1,195 @@
+{
+	"banner.content": "Salut ! Je m'appelle",
+	"Header.Item1": "À propos de moi",
+	"Header.Item2": "Expérience",
+	"Header.Item3": "Travail", 
+	"Header.Item5": "Contact",
+	"Header.cvBtn": "CV",
+	"Header.cvName": "issamBenkaroum_CV.pdf",
+	"banner.subtitle": "Je construis des plateformes numériques.",
+	"Banner.Pretitle": "Salut ! Je m'appelle",
+	"Banner.Description": "Je suis un ingénieur logiciel avec <span class='underline'>plus de 3 ans d'expérience</span>, axé sur le développement de systèmes, d'interfaces, de SAAS et de solutions technologiques. Ma fierté réside dans ma capacité à transformer les exigences des projets en solutions visuellement attrayantes et efficientes. Actuellement, je suis employé chez <span class='underline'>ANCFCC</span>, où je me consacre à la création de produits accessibles et orientés vers l'humain.",
+	"Banner.ActionBtn": "Entrer en contact",
+	"AboutMe.Title": "À propos de moi",
+	"AboutMe.Paragraphs": [
+		"Salut, je suis Issam Ben Karoum, diplômé ingénieur d'État en logiciels et systèmes intelligents. J'explore actuellement le monde de la conception et du développement d'applications WEB. Tout au long de ma carrière, j'ai été impliqué dans divers projets à grande échelle, mettant l'accent sur la conception responsive, l'optimisation des performances et la collaboration interfonctionnelle. J'adore transformer la 'liste de souhaits' d'un projet en quelque chose qui a non seulement l'air génial, mais qui fonctionne aussi bien.",
+		"Ma journée type consiste à concrétiser des conceptions en éléments cliquables et résoudre des problèmes avec notre équipe QA. Je suis axé sur le travail d'équipe, la prise de responsabilité dans ce que je fais, et je suis toujours à la recherche de moyens d'aider les autres à grandir dans leurs rôles.",
+		"Certaines des technologies sur lesquelles j'ai été formé et sur lesquelles j'ai travaillé incluent (mais ne se limitent pas à) :"
+	],
+	"AboutMe.conclude": [
+		"Voilà un peu sur moi. J'ai hâte de mettre mes compétences et ma passion au service de projets encore plus passionnants !"
+	],
+	"Experience.Title": "Où j'ai travaillé",
+	"Experience.Jobs": [
+		{
+			"Tab": "ANCFCC",
+			"Title": "Ingénieur en Développement Informatique",
+			"Date": "déc. 2021 - Présent",
+			"Description": [
+				"Développement de la plateforme E-RECRUTEMENT-ANCFCC, facilitant le processus de recrutement.",
+				"Développement du projet de réconciliation ANCFCC-CDG, améliorant les processus opérationnels.",
+				"Développement du marketplace de la cartographie.",
+				"Développement et la mise en place la solutions de signature électronique."
+			]
+		},
+
+		{
+			"Tab": "FMJ Technology",
+			"Title": "Développeur Full Stack : MEAN STACK",
+			"Date": "avr. 2021 - août 2021",
+			"Description": [
+				"Conception et développement d'une Marketplace artistique I MIND YOU dédiée à la vente d'œuvres d'art offrant des outils et services favorisant la mise en relation entre vendeurs et acheteurs Cash Back."
+			]
+		},
+		{
+			"Tab": "STG",
+			"Title": "Développeur Full Stack : MEAN STACK",
+			"Date": "sept. 2020 - mars 2021",
+			"Description": [
+				"Conception et développement de solutions SaaS pour la gestion de flotte, l'analyse du comportement de conduite, la détection et la reconstitution d'accidents, ainsi que le suivi en temps réel de la consommation de carburant et des incidents de vol."
+ 
+			]
+		},
+		{
+			"Tab": "FMJ Technology",
+			"Title": "Développeur Full Stack : MEAN STACK",
+			"Date": "févr. 2020 - juil. 2020",
+			"Description": [
+				"Développement d'un projet visant à améliorer et ajuster la génération de mosaïques d'images pour un réseau social artistique sous la direction de l'artiste Yann Faisant."
+			]
+		}
+	],
+	"FeatureProjects.Title": "Quelques-unes de mes réalisations",
+	"FeatureProjects.Label": "Projet en vedette",
+	"FeatureProjects.Projects": [
+		{
+			"Title": "Fmg Pay",
+			"Description": "FMJ PAY est une plateforme innovante permettant de simplifier la gestion de vos paiements en ligne en toute sécurité. Avec FMJ PAY, les utilisateurs peuvent facilement charger leur compte portefeuille, offrant ainsi une solution pratique pour effectuer des transactions sans tracas. Profitez d'une expérience utilisateur fluide grâce à des fonctionnalités intuitives, des options de paiement diversifiées et une interface conviviale. Notre plateforme garantit la confidentialité de vos données financières et assure des transactions rapides et fiables. FMJ PAY offre une gestion transparente de votre compte portefeuille, vous permettant de suivre facilement vos dépenses et d'effectuer des recharges en quelques clics.",
+			"imgs": [
+				"assets/videos/fmjPay.webm"
+			],
+			"demoLink": "",
+			"Technologies": [
+				"HTML/HTML5",
+				"CSS/CSS3", 
+				"Angular", 
+				"Angular Material", 
+				"RxJS",
+				"NodeJS",
+				"ExpressJs",
+				"MongoDB",
+				"GitLab",
+				"Git",
+				"Jira",
+				"UIKIT" ,
+				"Stripe"
+			]
+		},
+		{
+			"Title": "Fmg I MIND YOU Marketplace",
+			"Description": "Le projet Fmg I MIND YOU Marketplace est une plateforme innovante dédiée à l'art contemporain. Cette plateforme offre un espace numérique où les artistes émergents peuvent exposer et vendre leurs créations uniques. Les amateurs d'art peuvent découvrir une variété d'œuvres exceptionnelles, allant de la peinture à la sculpture, en passant par la photographie. Fmg I MIND YOU Marketplace favorise la connexion directe entre les artistes et les collectionneurs, encourageant ainsi un échange authentique et transparent. Grâce à des fonctionnalités conviviales, les utilisateurs peuvent naviguer facilement, explorer des galeries virtuelles et acquérir des pièces d'art exclusives. La plateforme s'engage à soutenir la diversité artistique tout en offrant une expérience immersive et accessible aux passionnés d'art du monde entier.",
+			"imgs": [
+				"assets/videos/fmjMarketplace.webm"
+			],
+			"demoLink": "",
+			"Technologies": [
+				"HTML/HTML5",
+				"CSS/CSS3", 
+				"Angular", 
+				"Angular Material", 
+				"UIKIT", 
+				"RxJS",
+				"NodeJS",
+				"ExpressJs",
+				"MongoDB",
+				"GitLab",
+				"Git",
+				"Jira",
+				"Bootstrap",
+				"Stripe"
+			]
+		},
+		{
+			"Title": "EVELO",
+			"Description": "Le projet consiste en le développement du Front-End de la page d'accueil d'EVELO, avec une conception moderne et conviviale. L'objectif est d'optimiser l'expérience utilisateur en intégrant des éléments interactifs et attractifs tout en assurant une navigation intuitive. Le design sera axé sur la facilité d'utilisation, la performance et la compatibilité avec les différents dispositifs. Des technologies modernes seront employées pour garantir une interface web dynamique et responsive, reflétant ainsi l'image innovante d'EVELO.",
+			"imgs": [
+				"assets/videos/evelo.webm"
+			],
+			"demoLink": "",
+			"Technologies": [
+				"HTML/HTML5",
+				"CSS/CSS3", 
+				"Angular", 
+				"Angular Material", 
+				"RxJS", 
+				"GitLab",
+				"Git",
+				"Jira",
+				"Bootstrap" 
+			]
+		},
+		{
+			"Title": "Portail ANCFCC",
+			"Description": "Le projet de Développement Front-End pour le Portail ANCFCC (Agence Nationale de la Conservation Foncière, du Cadastre et de la Cartographie) vise à améliorer l'interface utilisateur et l'expérience globale des utilisateurs du portail. L'objectif principal est d'optimiser la navigation, la convivialité et la performance du site afin de faciliter l'accès aux informations et services proposés par l'ANCFCC.",
+			"imgs": [
+				"assets/videos/portail.webm"
+
+			],
+			"demoLink": "",
+			"Technologies": [
+				"HTML/HTML5",
+				"CSS/CSS3", 
+				"Angular", 
+				"Angular Material", 
+				"RxJS",
+				"Azure Devops", 
+				"Bootstrap" 
+			]
+		}
+	],
+	"OtherProjects.Title": "Autres projets remarquables",
+	"OtherProjects.Projects": [
+		{
+			"Title": "Agence de voyages en ligne Tripado",
+			"Description": "Tripado, agence de voyages en ligne, offre une gamme complète de services incluant des circuits, des excursions et des transferts au Maroc, offrant ainsi une expérience de voyage complète et personnalisée.",
+			"ghLink": "",
+			"demoLink": "",
+			"Technologies": ["MEAN STACK"]
+		},
+		{
+			"Title": "Plateforme E-COMMERCE Shahrazad",
+			"Description": "Plateforme E-COMMERCE Shahrazad : Plateforme en ligne offrant une expérience d'achat diversifiée et conviviale, inspirée par les contes de Shahrazad, proposant une gamme variée de produits avec une touche orientale unique.",
+			"ghLink": "",
+			"demoLink": "",
+			"Technologies": ["MEAN STACK"]
+		}
+	],
+	"Contact.Pretitle": "La suite",
+	"Contact.Title": "Entrez en contact !",
+	"Contact.Content": "Je serai ravi de recevoir votre contact si vous souhaitez discuter de nouvelles opportunités. Écrivez-moi, et je vous répondrai dès que je verrai votre message. Un design simple d'une page qui présente une lettre de profil avec des informations de base sur une personne.",
+	"Contact.Btn": "Dire bonjour",
+	"Testimonial.Title": "Les impressions de mes clients à mon sujet",
+	"Testimonial.Items": [
+		{
+			"Comment": "Je voulais simplement te dire merci personnellement pour les années de service et de dévouement chez CoDev. Je comprends que tu pars pour poursuivre une opportunité éducative, et bien que je sois triste de te voir partir, je respecte tes efforts pour améliorer tes compétences. J'espère sincèrement que tu envisageras de revenir chez CoDev lorsque tes opportunités éducatives le permettront, et j'espère que tu resteras en contact avec l'équipe localement, ainsi qu'avec moi. Si je peux faire quelque chose pour t'aider, fais-le moi savoir.",
+			"Name": "Tony Morrison",
+			"Position": "PDG",
+			"Company": "CoDev",
+			"img": "assets/images/testimonial/tony-morrison.jpeg"
+		},
+		{
+			"Comment": "issam est une <span class='underline'>initiatrice autonome</span> sur laquelle j'ai compté pour <span class='underline'>diriger les efforts de développement front-end pour son équipe</span>. Au cours des dernières années, elle s'est attaquée à nos problèmes complexes et a trouvé des solutions, <span class='underline'>consacrant toujours le temps nécessaire pour trouver les bonnes solutions</span>. Elle a notamment <span class='underline'>créé des outils innovants</span> pour aider nos utilisateurs à traduire du contenu entre les langues, ce qui pose des défis nécessitant une compréhension des meilleures pratiques d'internationalisation et de localisation, en particulier en ce qui concerne les applications web. Elle n'a <span class='underline'>jamais hésité à apprendre de nouvelles technologies et frameworks</span>, et je suis convaincu qu'elle contribuera à faire avancer tout effort de développement. <span class='underline'>Je la recommande sans réserve</span> !",
+			"Name": "Robert Bailey",
+			"Position": "Directeur du génie logiciel",
+			"Company": "Lingotek",
+			"img": "assets/images/testimonial/robert-bailey.jpeg"
+		},
+		{
+			"Comment": "5/5 étoiles. Elle n'hésite pas à organiser des réunions et à poser des questions essentielles pour faire avancer l'équipe. Elle <span class='underline'>ne perd pas de temps</span> pour attirer l'attention de ses coéquipiers afin de s'assurer que tout le monde est à bord. Plus souvent qu'autrement, nous constatons que <span class='underline'>le tableau Jira de son équipe est presque vide de tickets</span>. Montre un <span class='underline'>excellent leadership</span> pour Forza. Disponible pour le pair programming et les revues de code. A une excellente compréhension des attentes, des objectifs et des résultats de l'équipe. Fait le point avec le chef de projet sur les besoins de l'équipe, tels que du travail supplémentaire, et sur les problèmes, tels que les frictions et/ou les problèmes de moral de l'équipe.",
+			"Name": "Tori Blount",
+			"Position": "Chef de projet",
+			"Company": "CoreBridge",
+			"img": "assets/images/testimonial/tori-blount.png"
+		}
+	]
+}
