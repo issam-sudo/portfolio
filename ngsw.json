@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1710893486688,
+  "timestamp": 1710974030045,
   "index": "https://github.com/issam-sudo/portfolio.git/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "https://github.com/issam-sudo/portfolio.git/favicon.ico",
         "https://github.com/issam-sudo/portfolio.git/index.html",
-        "https://github.com/issam-sudo/portfolio.git/main.43a7d3c951d23859.js",
+        "https://github.com/issam-sudo/portfolio.git/main.709df9c8e43c698b.js",
         "https://github.com/issam-sudo/portfolio.git/manifest.webmanifest",
         "https://github.com/issam-sudo/portfolio.git/polyfills.3a2c6e8a3ddeef0c.js",
         "https://github.com/issam-sudo/portfolio.git/runtime.13fb9db995d979a4.js",
@@ -221,7 +221,7 @@
     "https://github.com/issam-sudo/portfolio.git/assets/images/country/icon-britannique.png": "2d58af760e01fb3990ff72af0a0f3825c9bef3db",
     "https://github.com/issam-sudo/portfolio.git/assets/images/country/icon-france.png": "47ac3293669f81c84f8aa60c8dfe7ad160f5cb43",
     "https://github.com/issam-sudo/portfolio.git/assets/images/folder.svg": "6c18768ec690431e2e0ff5455ac4e38a601890e1",
-    "https://github.com/issam-sudo/portfolio.git/assets/images/logo/logoPortfolio.png": "b1a20e43302e6f81d6b09e5a37f9d6e667be53ae",
+    "https://github.com/issam-sudo/portfolio.git/assets/images/logo/logoPortfolio.png": "a894e209b3fbc6f57e7314e889f119d61e7ee136",
     "https://github.com/issam-sudo/portfolio.git/assets/images/me/issam.jpg": "14f0fad5c01c35cc99d44a5a220cf5665d57726b",
     "https://github.com/issam-sudo/portfolio.git/assets/videos/evelo.webm": "f67d2602ff1ecba5be79249e57b79460b153e57d",
     "https://github.com/issam-sudo/portfolio.git/assets/videos/fmjMarketplace.webm": "1bcb9c77d7fcae62e5f5b6f01bc7bed38da9794e",
@@ -243,9 +243,9 @@
     "https://github.com/issam-sudo/portfolio.git/fa-solid-900.6a636d7efad00430.woff": "52751432ded489dfdf27fb1cf64c570c4c27a1d7",
     "https://github.com/issam-sudo/portfolio.git/fa-solid-900.6bcd6c9c0a9fcfbf.woff2": "a9922842a120a7f1eaced667480c5e185a106d69",
     "https://github.com/issam-sudo/portfolio.git/fa-solid-900.9d21645b52658faa.svg": "33fe5758f3992d8da2635c4fa230b54376dd18d1",
-    "https://github.com/issam-sudo/portfolio.git/favicon.ico": "4f4421da67eeb515f33cb8d3bdfb6ef3bb36f3fc",
-    "https://github.com/issam-sudo/portfolio.git/index.html": "d4b0722105cefebbbe3ecf22bcd041ecf44719b9",
-    "https://github.com/issam-sudo/portfolio.git/main.43a7d3c951d23859.js": "321e807565ac3209d82fa99f6ed2ef072abec513",
+    "https://github.com/issam-sudo/portfolio.git/favicon.ico": "22fbe0035513bd8fb46fc11ef4749d535e83de95",
+    "https://github.com/issam-sudo/portfolio.git/index.html": "3452fd2b44271fd6842202888885d739f05bf280",
+    "https://github.com/issam-sudo/portfolio.git/main.709df9c8e43c698b.js": "64a474881c95e057c0583d1cdbfbec58e3c67862",
     "https://github.com/issam-sudo/portfolio.git/manifest.webmanifest": "3c2dd7ce43c806cd226644eaac6d6c31bd4a54b5",
     "https://github.com/issam-sudo/portfolio.git/owl.video.play.e3b436436832b027.png": "c0d64356ec2758cb280d183b4829c923e5ff61e5",
     "https://github.com/issam-sudo/portfolio.git/polyfills.3a2c6e8a3ddeef0c.js": "58d7f1a57f02ab2656c3f848396f8d2e1861b31c",
