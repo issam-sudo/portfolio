@@ -125,18 +125,18 @@
 				</a>
 			</li>
 			<li ngbNavItem>
-				<a [ngStyle]="{ 'background': language == 'fr' ? 'url(assets/images/country/icon-france.png) center':'gray' }"  (click)="switchToFrench()" class="main-btn-language cv-btn">
-  				<span *ngIf=" language != 'fr'">FR</span>	
+				<a  [ngStyle]="{ 'background': language == 'fr' ? 'url(assets/images/country/icon-france.png) center' : 'url(assets/images/country/icon-france.png) center', 'filter': language != 'fr' ? 'grayscale(80%)' : '' }" (click)="switchToFrench()" class="main-btn-language cv-btn">
+  			 
 				</a>
 			</li>
 			<li ngbNavItem>
-				<a  [ngStyle]="{ 'background': language == 'en' ? 'url(assets/images/country/icon-britannique.png) center' :'gray' }"   (click)="switchToEnglish()" class="main-btn-language cv-btn">
-					<span *ngIf=" language != 'en'">EN</span> 
+				<a  [ngStyle]="{ 'background': language == 'en' ? 'url(assets/images/country/icon-britannique.png) center' : 'url(assets/images/country/icon-britannique.png) center', 'filter': language != 'en' ? 'grayscale(80%)' : '' }"     (click)="switchToEnglish()" class="main-btn-language cv-btn">
+				 
 				</a>
 			</li>
 			<li ngbNavItem>
-				<a  [ngStyle]="{ 'background': language == 'de' ?  'url(assets/images/country/icon-allemand.png) center' :'gray' }" (click)="switchToDeutsch()" class="main-btn-language cv-btn">
-					<span *ngIf=" language != 'de'">DE</span>
+				<a [ngStyle]="{ 'background': language == 'de' ? 'url(assets/images/country/icon-allemand.png) center' : 'url(assets/images/country/icon-allemand.png) center', 'filter': language != 'de' ? 'grayscale(80%)' : '' }"   (click)="switchToDeutsch()" class="main-btn-language cv-btn">
+					 
 				</a>
 			</li>
 		</ul>
@@ -218,18 +218,18 @@
 				 
 						
 						<li  >
-							<a [ngStyle]="{ 'background': language == 'fr' ? 'url(assets/images/country/icon-france.png) center':'gray' }"  (click)="switchToFrench()" class=".main-btn-language  cv-btn">
-							 FR
+							<a [ngStyle]="{ 'background': language == 'fr' ? 'url(assets/images/country/icon-france.png) center' : 'url(assets/images/country/icon-france.png) center', 'filter': language != 'fr' ? 'grayscale(80%)' : '' }" (click)="switchToFrench()" class="main-btn-language  cv-btn">
+						 
 							</a>
 						</li>
 						<li  >
-							<a  [ngStyle]="{ 'background': language == 'en' ? 'url(assets/images/country/icon-britannique.png) center' :'gray' }"   (click)="switchToEnglish()" class="main-btn-language cv-btn">
-							 EN
+							<a [ngStyle]="{ 'background': language == 'en' ? 'url(assets/images/country/icon-britannique.png) center' : 'url(assets/images/country/icon-britannique.png) center', 'filter': language != 'en' ? 'grayscale(80%)' : '' }" (click)="switchToEnglish()" class="main-btn-language cv-btn">
+							 
 							</a>
 						</li>
 						<li  >
-							<a  [ngStyle]="{ 'background': language == 'de' ?  'url(assets/images/country/icon-allemand.png) center' :'gray' }" (click)="switchToDeutsch()" class="main-btn-language cv-btn">
-								 DE
+							<a [ngStyle]="{ 'background': language == 'de' ? 'url(assets/images/country/icon-allemand.png) center' : 'url(assets/images/country/icon-allemand.png) center', 'filter': language != 'de' ? 'grayscale(80%)' : '' }" (click)="switchToDeutsch()" class="main-btn-language cv-btn">
+						 
 							</a>
 						</li>
 						
